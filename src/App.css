@@ -1,0 +1,36 @@
+.l-container {
+	display: flex;
+	flex-direction: column;
+	gap: 1vh;
+}
+
+.l-two-columns {
+	display: flex;
+	gap: 2vw;
+	align-items: flex-start;
+}
+
+.c-app {
+	display: flex;
+	justify-content: center;
+
+	height: 100vh;
+	margin-top: 10vh;
+}
+
+.c-param-form {
+	display: flex;
+	flex-direction: column;
+	gap: 1vh;
+}
+
+.c-list {
+	display: flex;
+	flex-direction: column;
+	gap: 1vh;
+}
+
+.c-item {
+	display: flex;
+	gap: 1vw;
+}
